@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahiya17&show_icons=true&locale=en" alt="yahiya17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiya17&" alt="yahiya17" /></p>(remove buy me a coffee)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiya17&" alt="yahiya17" /></p>
