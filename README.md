@@ -13,15 +13,9 @@
 
 - 🤝 I’m looking for help with **enhancing project scalability and optimizing performance.**
 
-- 👨‍💻 All of my projects are available at [none](none)
-
-- 📝 I regularly write articles on [none](none)
-
 - 💬 Ask me about **data structures, algorithms, and clean code practices.**
 
 - 📫 How to reach me **myahiya404@gmail.com**
-
-- 📄 Know about my experiences [none](none)
 
 - ⚡ Fun fact **I debug faster with coffee and lo-fi beats.**
 
