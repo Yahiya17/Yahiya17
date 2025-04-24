@@ -31,8 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Icons for various languages and tools -->
-  <!-- (Kept unchanged for brevity, includes icons for Android, C, C++, HTML, CSS, Java, JS, Python, React, etc.) -->
+  <!-- Icons for various languages and tools (kept unchanged for brevity) -->
 </p>
 
 <h3 align="left">Support:</h3>
