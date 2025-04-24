@@ -34,11 +34,7 @@
   <!-- Icons for various languages and tools (kept unchanged for brevity) -->
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://ko-fi.com/Yahiya"> 
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Yahiya" />
-  </a>
+
 </p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahiya17&show_icons=true&locale=en&layout=compact" alt="yahiya17" /></p>
